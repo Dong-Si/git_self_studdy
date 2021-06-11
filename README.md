@@ -11,3 +11,21 @@ wolaishiyixia git push
 ```
 git config --global --unset http.proxy
 ```
+
+SSR新方法
+```
+# 设置ss
+git config --global http.proxy 'socks5://127.0.0.1:1070'
+
+git config --global https.proxy 'socks5://127.0.0.1:1070'
+
+# 设置代理
+git config --global https.proxy http://127.0.0.1:1070
+
+git config --global https.proxy https://127.0.0.1:1070
+
+# 取消代理
+git config --global --unset http.proxy
+
+git config --global --unset https.proxy
+```
