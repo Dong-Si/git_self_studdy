@@ -4,7 +4,7 @@
 
 GIT的三个概念：提交commit、仓库repository、分支branch
 
-# 第一次提交
+## 第一次提交
 
 ```c
 git add -A
@@ -17,7 +17,7 @@ git add	添加文件;记录更新
 
 ![](D:\Desktop\git学习\image-20210611151948265.png)
 
-查看提交的历史
+## 查看提交的历史
 
 ```p
 git log --stat
