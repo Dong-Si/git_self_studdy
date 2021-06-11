@@ -23,5 +23,13 @@ git add	添加文件;记录更新
 git log --stat
 ```
 
+## 维护项目的日常
 
+```c
+工作区打回去
+git checkout <filename>
+
+提交后撤回：
+git reset HEAD^
+```
 
