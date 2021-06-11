@@ -29,3 +29,5 @@ git config --global --unset http.proxy
 
 git config --global --unset https.proxy
 ```
+
+在网页端测试git pull
