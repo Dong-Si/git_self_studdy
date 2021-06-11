@@ -3,3 +3,5 @@
 增加一个链接，主要用来记录 ，[GIT新手.md](D:\Desktop\git学习\GIT新手.md)
 
 我是B分支我是A分支
+
+wolaishiyixia git push
