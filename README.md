@@ -5,3 +5,9 @@
 我是B分支我是A分支
 
 wolaishiyixia git push
+
+使用PAC模式
+再加上这句话
+'''
+git config --global --unset http.proxy
+'''
