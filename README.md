@@ -36,3 +36,16 @@ test 第一次
 
 test 第三次
 test 第二次
+
+03点02分2021年6月12日
+
+已有仓库?
+```c
+cd existing_git_repo
+git remote add origin https://gitee.com/dongsiw/git_learn_self.git
+git push -u origin master
+```
+
+记得改变工作路径
+
+快捷键 补充路径 tab键
