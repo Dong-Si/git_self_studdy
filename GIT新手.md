@@ -38,12 +38,16 @@ git reset HEAD^
 ```c
 从当前节点新建分支
 git checkout -b <branchname>
+
 列举所有的分支
 git branch
+
 单纯的切换到某个分支
 git checkout <btanchname>
+
 删掉特定的分支
 git branch -D <branchname>
+
 合并分支
 git merge <branchname>
 ```
